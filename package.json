@@ -1,0 +1,32 @@
+{
+  "name": "@krvinay/excel-to-json",
+  "version": "1.0.0",
+  "description": "Parse xls,xlsx,csv Buffer to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xls",
+    "xlsx",
+    "csv",
+    "xls-to-json",
+    "xlsx-to-json",
+    "csv-to-json"
+  ],
+  "author": "Vinay Kumar",
+  "license": "ISC",
+  "homepage": "https://github.com/kumarvinay32/excel_to_json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarvinay32/excel_to_json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kumarvinay32/excel_to_json/issues"
+  },
+  "dependencies": {
+    "csv": "~0.3.6",
+    "path": "~0.12.7",
+    "xlsx": "~0.16.9"
+  }
+}
